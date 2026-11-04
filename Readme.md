@@ -12,7 +12,7 @@ Prep/Pseudocode
 
 What do I know?
 
-I know that giving a long url there needs to return a short url of the original url that is unique.
+Return a short version of a long url 
 
 
 
