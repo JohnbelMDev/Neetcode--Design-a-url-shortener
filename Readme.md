@@ -20,7 +20,9 @@ How I would code it:
 
 Store the url link in an array to continually add new links
 
-Let urlinkValue = 
+Let urlinkValue = url;
+
+let getHalfValue = urlinkValue.length / 2
 
 
 
